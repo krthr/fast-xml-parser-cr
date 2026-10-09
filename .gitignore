@@ -1,4 +1,6 @@
-/docs/
+/docs/*
+!/docs/agents/
+!/docs/adr/
 /lib/
 /bin/
 /.shards/
