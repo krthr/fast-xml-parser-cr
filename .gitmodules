@@ -1,0 +1,3 @@
+[submodule "fast-xml-parser-js"]
+	path = fast-xml-parser-js
+	url = git@github.com:NaturalIntelligence/fast-xml-parser.git
